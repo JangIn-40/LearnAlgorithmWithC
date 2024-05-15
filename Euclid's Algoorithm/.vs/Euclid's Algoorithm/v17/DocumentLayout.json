@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E34F48-57DD-4D81-8DED-71474005A166}|..\\EratosthenesSieve\\EratosthenesSieve.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5F6A53-4096-4571-8315-1B8389C6CE2F}|Euclid\u0027s Algoorithm.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\Euclid\u0027s Algoorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B5F6A53-4096-4571-8315-1B8389C6CE2F}|Euclid\u0027s Algoorithm.vcxproj|solutionrelative:Euclid\u0027s Algoorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EratosthenesSieve.cpp",
+              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp",
+              "RelativeDocumentMoniker": "..\\EratosthenesSieve\\EratosthenesSieve.cpp",
+              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp",
+              "RelativeToolTip": "..\\EratosthenesSieve\\EratosthenesSieve.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAG0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T11:15:14.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Euclid\u0027s Algoorithm.cpp",
+              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\Euclid\u0027s Algoorithm.cpp",
+              "RelativeDocumentMoniker": "Euclid\u0027s Algoorithm.cpp",
+              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\Euclid\u0027s Algoorithm.cpp",
+              "RelativeToolTip": "Euclid\u0027s Algoorithm.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T04:51:24.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
