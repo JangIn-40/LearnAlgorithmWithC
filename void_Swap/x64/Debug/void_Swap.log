@@ -1,0 +1,4 @@
+﻿  void_Swap.cpp
+C:\Users\jih10\MyPlace\CPlusPlus\LearnAlgorithmWithC\void_Swap\void_Swap.cpp(21,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jih10\MyPlace\CPlusPlus\LearnAlgorithmWithC\void_Swap\void_Swap.cpp(21,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  void_Swap.vcxproj -> C:\Users\jih10\MyPlace\CPlusPlus\LearnAlgorithmWithC\Euclid's Algoorithm\x64\Debug\void_Swap.exe

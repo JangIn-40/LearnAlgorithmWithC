@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4BBE344-D35D-4FD7-8185-67A1D6812483}|..\\void_Swap\\void_Swap.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\void_Swap\\void_Swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5E34F48-57DD-4D81-8DED-71474005A166}|..\\EratosthenesSieve\\EratosthenesSieve.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -22,19 +25,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "void_Swap.cpp",
+              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\void_Swap\\void_Swap.cpp",
+              "RelativeDocumentMoniker": "..\\void_Swap\\void_Swap.cpp",
+              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\void_Swap\\void_Swap.cpp",
+              "RelativeToolTip": "..\\void_Swap\\void_Swap.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T01:40:21.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EratosthenesSieve.cpp",
               "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp",
               "RelativeDocumentMoniker": "..\\EratosthenesSieve\\EratosthenesSieve.cpp",
               "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp",
               "RelativeToolTip": "..\\EratosthenesSieve\\EratosthenesSieve.cpp",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAAAG0AAAAaAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAG0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-15T11:15:14.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Euclid\u0027s Algoorithm.cpp",
               "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\Euclid\u0027s Algoorithm.cpp",
               "RelativeDocumentMoniker": "Euclid\u0027s Algoorithm.cpp",
