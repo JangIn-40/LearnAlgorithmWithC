@@ -50,7 +50,7 @@ int get_shape(int m[][MAZE_SIZE], int x, int y)
 		if (x > 0 && m[y][x - 1]) s |= LEFT;
 		if (x < MAZE_SIZE - 2 && m[y][x + 1]) s |= RIGHT;
 	}
-	return static_cast<char>(shape[s]);
+	return (shape[s]);
 }
 
 void gotoxy(int x, int y) {
@@ -67,7 +67,7 @@ void draw_maze(int m[][MAZE_SIZE])
 		for (int j = 0; j < MAZE_SIZE; ++j)
 		{
 			gotoxy(j + 1, i + 1);
-			std::cout << get_shape(m, j, i);
+			std::wcout << static_cast<wchar_t>(get_shape(m, j, i));
 		}
 	}
 
