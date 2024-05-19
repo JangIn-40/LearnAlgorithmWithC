@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A175AFF8-A106-4B47-9ABF-87E079E143E9}|..\\DoubleLinkedList\\DoubleLinkedList.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DoubleLinkedList\\DoubleLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D0F4F3-29BA-416B-8F2E-DB49AC5CBAEE}|..\\JoshepProblem\\JoshepProblem.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\JoshepProblem\\JoshepProblem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01F225D0-07DB-482A-8C62-66A9DA722948}|..\\SimpleLinkedList\\SimpleLinkedList.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\SimpleLinkedList\\SimpleLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -34,19 +40,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SimpleLinkedList.cpp",
-              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\SimpleLinkedList\\SimpleLinkedList.cpp",
-              "RelativeDocumentMoniker": "..\\SimpleLinkedList\\SimpleLinkedList.cpp",
-              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\SimpleLinkedList\\SimpleLinkedList.cpp",
-              "RelativeToolTip": "..\\SimpleLinkedList\\SimpleLinkedList.cpp",
-              "ViewState": "AQIAAEIAAAAAAAAAAAASwGAAAAAAAAAA",
+              "Title": "DoubleLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DoubleLinkedList\\DoubleLinkedList.cpp",
+              "RelativeDocumentMoniker": "..\\DoubleLinkedList\\DoubleLinkedList.cpp",
+              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DoubleLinkedList\\DoubleLinkedList.cpp",
+              "RelativeToolTip": "..\\DoubleLinkedList\\DoubleLinkedList.cpp",
+              "ViewState": "AQIAAI4AAAAAAAAAAAASwKIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-18T12:22:28.543Z",
+              "WhenOpened": "2024-05-19T09:55:19.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "JoshepProblem.cpp",
+              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\JoshepProblem\\JoshepProblem.cpp",
+              "RelativeDocumentMoniker": "..\\JoshepProblem\\JoshepProblem.cpp",
+              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\JoshepProblem\\JoshepProblem.cpp",
+              "RelativeToolTip": "..\\JoshepProblem\\JoshepProblem.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T08:00:07.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\SimpleLinkedList\\SimpleLinkedList.cpp",
+              "RelativeDocumentMoniker": "..\\SimpleLinkedList\\SimpleLinkedList.cpp",
+              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\SimpleLinkedList\\SimpleLinkedList.cpp",
+              "RelativeToolTip": "..\\SimpleLinkedList\\SimpleLinkedList.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T12:22:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RatInTheTrap.cpp",
               "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\RatInTheTrap\\RatInTheTrap.cpp",
               "RelativeDocumentMoniker": "..\\RatInTheTrap\\RatInTheTrap.cpp",
@@ -54,12 +84,11 @@
               "RelativeToolTip": "..\\RatInTheTrap\\RatInTheTrap.cpp",
               "ViewState": "AQIAABwAAAAAAAAAAAApwD4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-17T05:20:42.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T05:20:42.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "array.cpp",
               "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DataStructure\\array.cpp",
               "RelativeDocumentMoniker": "..\\DataStructure\\array.cpp",
@@ -71,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "void_Swap.cpp",
               "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\void_Swap\\void_Swap.cpp",
               "RelativeDocumentMoniker": "..\\void_Swap\\void_Swap.cpp",
@@ -83,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EratosthenesSieve.cpp",
               "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp",
               "RelativeDocumentMoniker": "..\\EratosthenesSieve\\EratosthenesSieve.cpp",
@@ -95,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Euclid\u0027s Algoorithm.cpp",
               "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\Euclid\u0027s Algoorithm.cpp",
               "RelativeDocumentMoniker": "Euclid\u0027s Algoorithm.cpp",
