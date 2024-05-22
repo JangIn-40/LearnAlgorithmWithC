@@ -56,7 +56,7 @@ void print_head(std::ostream &oFile)
 
 void load_cards(const std::string &filename)
 {
-    std::ifstream file(filename, std::ios::binary);
+    std::ifstream file(filename);
     card *t;
     card *u;
 
@@ -91,7 +91,7 @@ void load_cards(const std::string &filename)
 
 void save_cards(const std::string &filename)
 {
-    std::ofstream file(filename, std::ios::binary);
+    std::ofstream file(filename);
     card *t;
     if (!file.is_open())
     {
@@ -164,7 +164,7 @@ int select_menu()
 
 int main()
 {
-    const std::string filename = "NAMECARD.DAT";
+    const std::string filename = "NAMECARD.txt";
     char name[NAME_SIZE];
     int i;
     card *t;
