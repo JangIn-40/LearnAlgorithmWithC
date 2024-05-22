@@ -3,29 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A175AFF8-A106-4B47-9ABF-87E079E143E9}|..\\DoubleLinkedList\\DoubleLinkedList.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DoubleLinkedList\\DoubleLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49D0F4F3-29BA-416B-8F2E-DB49AC5CBAEE}|..\\JoshepProblem\\JoshepProblem.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\JoshepProblem\\JoshepProblem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01F225D0-07DB-482A-8C62-66A9DA722948}|..\\SimpleLinkedList\\SimpleLinkedList.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\SimpleLinkedList\\SimpleLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7706D160-E6DD-4982-9D78-5423A7A6224A}|..\\RatInTheTrap\\RatInTheTrap.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\RatInTheTrap\\RatInTheTrap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BBE344-D35D-4FD7-8185-67A1D6812483}|..\\void_Swap\\void_Swap.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\void_Swap\\void_Swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9003535-E046-4F59-8A97-F7504C3C3B8B}|..\\DataStructure\\DataStructure.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DataStructure\\array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E34F48-57DD-4D81-8DED-71474005A166}|..\\EratosthenesSieve\\EratosthenesSieve.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B5F6A53-4096-4571-8315-1B8389C6CE2F}|Euclid\u0027s Algoorithm.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\Euclid\u0027s Algoorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2B5F6A53-4096-4571-8315-1B8389C6CE2F}|Euclid\u0027s Algoorithm.vcxproj|solutionrelative:Euclid\u0027s Algoorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6D10AABB-F7F6-4F0B-A7E8-2EB648AA4500}|..\\Namecard\\Namecard.vcxproj|C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Namecard\\Namecard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,104 +13,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DoubleLinkedList.cpp",
-              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DoubleLinkedList\\DoubleLinkedList.cpp",
-              "RelativeDocumentMoniker": "..\\DoubleLinkedList\\DoubleLinkedList.cpp",
-              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DoubleLinkedList\\DoubleLinkedList.cpp",
-              "RelativeToolTip": "..\\DoubleLinkedList\\DoubleLinkedList.cpp",
-              "ViewState": "AQIAAI4AAAAAAAAAAAASwKIAAAAZAAAA",
+              "Title": "Namecard.cpp",
+              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Namecard\\Namecard.cpp",
+              "RelativeDocumentMoniker": "..\\Namecard\\Namecard.cpp",
+              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Namecard\\Namecard.cpp",
+              "RelativeToolTip": "..\\Namecard\\Namecard.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAASwDgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-19T09:55:19.362Z",
+              "WhenOpened": "2024-05-21T11:41:59.653Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JoshepProblem.cpp",
-              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\JoshepProblem\\JoshepProblem.cpp",
-              "RelativeDocumentMoniker": "..\\JoshepProblem\\JoshepProblem.cpp",
-              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\JoshepProblem\\JoshepProblem.cpp",
-              "RelativeToolTip": "..\\JoshepProblem\\JoshepProblem.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-19T08:00:07.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SimpleLinkedList.cpp",
-              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\SimpleLinkedList\\SimpleLinkedList.cpp",
-              "RelativeDocumentMoniker": "..\\SimpleLinkedList\\SimpleLinkedList.cpp",
-              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\SimpleLinkedList\\SimpleLinkedList.cpp",
-              "RelativeToolTip": "..\\SimpleLinkedList\\SimpleLinkedList.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-18T12:22:28.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RatInTheTrap.cpp",
-              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\RatInTheTrap\\RatInTheTrap.cpp",
-              "RelativeDocumentMoniker": "..\\RatInTheTrap\\RatInTheTrap.cpp",
-              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\RatInTheTrap\\RatInTheTrap.cpp",
-              "RelativeToolTip": "..\\RatInTheTrap\\RatInTheTrap.cpp",
-              "ViewState": "AQIAABwAAAAAAAAAAAApwD4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-17T05:20:42.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "array.cpp",
-              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DataStructure\\array.cpp",
-              "RelativeDocumentMoniker": "..\\DataStructure\\array.cpp",
-              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\DataStructure\\array.cpp",
-              "RelativeToolTip": "..\\DataStructure\\array.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEYAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-16T13:25:55.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "void_Swap.cpp",
-              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\void_Swap\\void_Swap.cpp",
-              "RelativeDocumentMoniker": "..\\void_Swap\\void_Swap.cpp",
-              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\void_Swap\\void_Swap.cpp",
-              "RelativeToolTip": "..\\void_Swap\\void_Swap.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-16T01:40:21.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EratosthenesSieve.cpp",
-              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp",
-              "RelativeDocumentMoniker": "..\\EratosthenesSieve\\EratosthenesSieve.cpp",
-              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\EratosthenesSieve\\EratosthenesSieve.cpp",
-              "RelativeToolTip": "..\\EratosthenesSieve\\EratosthenesSieve.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAG0AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-15T11:15:14.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Euclid\u0027s Algoorithm.cpp",
-              "DocumentMoniker": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\Euclid\u0027s Algoorithm.cpp",
-              "RelativeDocumentMoniker": "Euclid\u0027s Algoorithm.cpp",
-              "ToolTip": "C:\\Users\\jih10\\MyPlace\\CPlusPlus\\LearnAlgorithmWithC\\Euclid\u0027s Algoorithm\\Euclid\u0027s Algoorithm.cpp",
-              "RelativeToolTip": "Euclid\u0027s Algoorithm.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-14T04:51:24.039Z"
             }
           ]
         }
